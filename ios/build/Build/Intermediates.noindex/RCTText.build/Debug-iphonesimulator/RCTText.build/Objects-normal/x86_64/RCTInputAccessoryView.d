@@ -1,0 +1,16 @@
+dependencies: \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.m \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTouchHandler.h \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Crocsluts/Desktop/Workspace/AwesomeProject/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h
